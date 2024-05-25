@@ -45,6 +45,11 @@ The key findings from the analysis include:
 - Revenue breakdown by pizza type.
 - Recommendations for inventory management and marketing strategies.
 
+## Dashboard
+Here is a snapshot of the dashboard created for the Pizza Sales Analysis:
+
+
+
 ## Usage
 To use this project:
 1. Clone the repository to your local machine using:
