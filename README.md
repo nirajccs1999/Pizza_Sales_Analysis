@@ -57,7 +57,7 @@ To use this project:
     ```sh
     git clone https://github.com/nirajccs1999/Pizza_Sales_Analysis.git
     ```
-2. Open the Excel file `Pizza_Sales_.xlsx`.
+2. Open the Excel file `Pizza_Sales.xlsx`.
 3. Explore the different sheets and use the interactive elements such as pivot tables and charts to analyze the data.
 
 ## Contributing
