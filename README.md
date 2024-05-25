@@ -47,6 +47,7 @@ The key findings from the analysis include:
 
 ## Dashboard
 Here is a snapshot of the dashboard created for the Pizza Sales Analysis:
+<img width="662" alt="Dashboard" src="https://github.com/nirajccs1999/Pizza_Sales_Analysis/assets/121447767/f96460a0-45b2-4cab-9c01-4eafd95a43c5">
 
 
 
